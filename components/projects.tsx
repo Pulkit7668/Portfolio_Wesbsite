@@ -47,8 +47,8 @@ const projects = [
     description: 'A modern, responsive portfolio website showcasing projects, skills, and experience with smooth animations and excellent SEO.',
     image: '/images/portfolio.png',
     tags: ['Next.js', 'React', "TypeScript", "JavaScript", "Tailwind", 'Responsive Design'],
-    liveUrl: 'https://example.com',
-    githubUrl: 'https://github.com',
+    liveUrl: 'https://portfolio-wesbsite.vercel.app/',
+    githubUrl: 'https://github.com/Pulkit7668/Portfolio_Wesbsite.git',
   },
   {
     id: 6,
