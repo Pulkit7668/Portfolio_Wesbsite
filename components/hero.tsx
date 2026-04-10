@@ -12,7 +12,7 @@ export function Hero() {
                 Hi, I&apos;m Pulkit Gautam
               </h1>
               <p className="text-xl text-muted-foreground leading-relaxed">
-                A passionate Front End Developer crafting beautiful, responsive, and user-centric web applications. Specialized in React, TypeScript, and modern web technologies.
+                A passionate Front End Developer crafting beautiful, responsive, and user-centric web applications. Specialized in React, JavaScript, and modern web technologies.
               </p>
             </div>
 
