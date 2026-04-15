@@ -11,7 +11,7 @@ const projects = [
     description: 'Career platform connecting job seekers with employers for recruitment and hiring.',
     image: '/images/job-portal.png',
     tags: [ 'React', 'Vite', 'JavaScript', 'Tailwind'],
-    liveUrl: 'https://job-portal-sand-eight-15.vercel.app/',
+    liveUrl: 'https://job-portal-nine-olive.vercel.app/',
     githubUrl: 'https://github.com/Pulkit7668/JobPortal.git',
   },
   {
